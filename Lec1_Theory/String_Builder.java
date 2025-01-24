@@ -1,4 +1,4 @@
-package W.Lec1Theory;
+package W.Lec1_Theory;
 
 public class String_Builder {
     public static void main(String[] args) {
