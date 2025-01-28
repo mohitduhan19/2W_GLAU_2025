@@ -1,4 +1,4 @@
-package W.Lec1_Theory;
+package W.Lec1_Theory_Lab;
 
 public class String_Buffer {
     public static void main(String[] args) {
