@@ -1,4 +1,4 @@
-package W.L3_Theory_Lab;
+package W.L2_Theory_Lab;
 
 public class Print_Number {
     public static void printNumbers(int current, int n) {

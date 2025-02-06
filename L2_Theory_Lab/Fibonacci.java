@@ -1,4 +1,4 @@
-package W.L3_Theory_Lab;
+package W.L2_Theory_Lab;
 
 public class Fibonacci {
     public static int fibonacci(int n) {
